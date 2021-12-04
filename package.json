@@ -1,5 +1,5 @@
 {
-  "name": "alan-vocal-assistant",
+  "name": "alan_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,17 +46,5 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^2.5.1"
-  },
-  "description": "### [Live Site](https://alan-news-app.netlify.app/)",
-  "main": ".eslintrc.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sosso21/alan-vocal-assistant.git"
-  },
-  "author": "hermes-dev",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sosso21/alan-vocal-assistant/issues"
-  },
-  "homepage": "https://github.com/sosso21/alan-vocal-assistant#readme"
+  }
 }
